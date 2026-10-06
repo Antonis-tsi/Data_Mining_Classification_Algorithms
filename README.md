@@ -45,4 +45,4 @@ This repository contains a collection of Python scripts implementing various Mac
 
 
 ## Author
-**Antonis Tsiggeris**
+**Antonis Tsingeris**

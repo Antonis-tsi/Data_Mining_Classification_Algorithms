@@ -47,4 +47,4 @@ This repository contains a collection of Python scripts implementing various Mac
 For an in-depth theoretical background, comprehensive explanation of the preprocessing steps, and a detailed breakdown of the classification results (including accuracy scores and confusion matrices), please refer to the `Project_Analysis_Report.pdf` file included in this repository.
 
 ## Author
-* **Antonis Tsiggeris**
+**Antonis Tsiggeris**

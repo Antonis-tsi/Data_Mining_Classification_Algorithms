@@ -1,7 +1,3 @@
-#Αντώνης Τσίγγερης 2026
-#Εξόρυξη Δεδομένων Python 
-#Άσκηση 1
-#15/01/2026
 import pandas as pd
 import numpy as np
 from ucimlrepo import fetch_ucirepo

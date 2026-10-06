@@ -44,5 +44,5 @@ This repository contains a collection of Python scripts implementing various Mac
 *Note: The datasets are automatically fetched via the `ucimlrepo` library during execution.*
 
 
-## Author
-**Antonis Tsingeris**
+## License
+MIT License

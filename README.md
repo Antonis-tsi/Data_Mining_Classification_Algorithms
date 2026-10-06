@@ -26,7 +26,7 @@ This repository contains a collection of Python scripts implementing various Mac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ML-Classification-Portfolio.git
+   git clone https://github.com/Antonis-tsi/Data_Mining_Classification_Algorithms.git
    ```
 
 2. Install the required dependencies:
